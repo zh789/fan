@@ -6,7 +6,8 @@
 	<div id="header" class="row">
 		<div class="sevencol">
 <h3>翻墙看世界</h3>
-
+<a class="style1">建议微信用户，先点右上角3个点，用浏览器打开本页面</a>
+		</div>
 		<a class="style1">建议微信用户，先点右上角3个点，用浏览器打开本页面</a>
 		</div>
 <a class="style1">微信易封，长期使用，请用浏览器打开后，收藏网址</a>
