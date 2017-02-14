@@ -6,9 +6,9 @@
 	<div id="header" class="row">
 		<div class="sevencol">
 <h3>翻墙看世界</h3>
-<a class="style1">部分链接微信打不开</a>
+<a class="style1">部分链接微信可能打不开或无法长期使用</a>
 		</div>
-		<a class="style1">微信用户，请先点右上角3个点，用浏览器打开本页面，并用浏览器收藏网址</a>
+		<a class="style1">推荐微信用户，先点手机屏幕右上角3个点，用浏览器打开本页面，并用浏览器收藏网址</a>
 
 		</div>
 		<div class="fivecol last">
